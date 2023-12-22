@@ -1,7 +1,7 @@
 {
   "name": "ther",
   "version": "0.1.0",
-  "homepage":"dharabhakhar.github.io",
+  "homepage":"https://dharabhakhar.github.io/nik1",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",

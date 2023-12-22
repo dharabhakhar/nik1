@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nik1/static/css/main.53ca16a0.css",
+    "main.js": "/nik1/static/js/main.c60f44b8.js",
+    "static/js/787.70e946a7.chunk.js": "/nik1/static/js/787.70e946a7.chunk.js",
+    "static/media/image 3.png": "/nik1/static/media/image 3.a68b5a7c41eb8980bc21.png",
+    "static/media/logo.png": "/nik1/static/media/logo.40707992c21d81ab487a.png",
+    "static/media/about.jpg": "/nik1/static/media/about.6f5558384ee598737aea.jpg",
+    "static/media/icomoon.svg?3pgiup": "/nik1/static/media/icomoon.1ac966e404cab725a887.svg",
+    "static/media/icomoon.eot?3pgiup": "/nik1/static/media/icomoon.eb16ae331d1b8c06ed80.eot",
+    "static/media/icomoon.woff?3pgiup": "/nik1/static/media/icomoon.b524a23e211a008cd4be.woff",
+    "static/media/icomoon.ttf?3pgiup": "/nik1/static/media/icomoon.586c91dbecfa9f1ad468.ttf",
+    "index.html": "/nik1/index.html",
+    "main.53ca16a0.css.map": "/nik1/static/css/main.53ca16a0.css.map",
+    "main.c60f44b8.js.map": "/nik1/static/js/main.c60f44b8.js.map",
+    "787.70e946a7.chunk.js.map": "/nik1/static/js/787.70e946a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53ca16a0.css",
+    "static/js/main.c60f44b8.js"
+  ]
+}
